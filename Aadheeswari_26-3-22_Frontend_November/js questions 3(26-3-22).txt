@@ -1,0 +1,4 @@
+3) Which is faster map or for loop JavaScript?
+
+
+          For an input size of 1 million numbers, Array. map() takes about 2,000ms, whereas a for loop takes about 250ms.

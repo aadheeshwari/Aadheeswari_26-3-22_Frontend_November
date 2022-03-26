@@ -1,0 +1,5 @@
+4) What are DOM elements?
+  
+
+        A DOM element is something like a DIV, HTML, BODY element on a page. You can add classes to all of these using CSS,
+or interact with them using JS.

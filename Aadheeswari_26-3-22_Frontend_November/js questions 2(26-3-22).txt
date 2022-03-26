@@ -1,0 +1,5 @@
+2) what is OOPs concept?
+
+       a style of Object-oriented programming (OOP) in which inheritance occurs via defining classes of objects, instead of
+inheritance occurring via the objects alone. The most popular model of OOP is class-based. But as I mentioned, JavaScript 
+isn't a classed-based langauge – it's is a prototype-based langauge
